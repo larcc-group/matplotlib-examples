@@ -22,3 +22,7 @@ Learning Python 3.
 - Function
 - Function with multiple return
 - List: sort, slice
+
+### Learn more
+
+[Learn Python Programming - Python Tutorial](https://pythonbasics.org/)
