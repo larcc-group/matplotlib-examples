@@ -22,6 +22,8 @@ Learning Python 3.
 - Function
 - Function with multiple return
 - List: sort, slice
+- try, except, finally
+- read and write file
 
 ### Learn more
 
