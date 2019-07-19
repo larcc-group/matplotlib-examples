@@ -25,6 +25,8 @@ Learning Python 3.
 - try, except, finally
 - read and write file
 
-### Learn more
+## Learn more
 
 [Learn Python Programming - Python Tutorial](https://pythonbasics.org/)
+
+[Matplotlib: Python plotting - documentation](https://matplotlib.org/)
