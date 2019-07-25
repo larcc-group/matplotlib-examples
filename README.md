@@ -30,3 +30,5 @@ Learning Python 3.
 [Learn Python Programming - Python Tutorial](https://pythonbasics.org/)
 
 [Matplotlib: Python plotting - documentation](https://matplotlib.org/)
+
+[pandas: Python Data Analysis Library](https://pandas.pydata.org/)
