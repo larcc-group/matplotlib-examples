@@ -165,3 +165,4 @@ dmypy.json
 
 src/file.txt
 test.py
+!src/lib

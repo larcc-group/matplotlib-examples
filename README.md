@@ -1,34 +1,20 @@
-# Treinamento Matplotlib LARCC
+# Matplotlib Training
 
-## Python 3
-Learning Python 3.
+This repository has some tips on Python and mainly on Matplotlib.
 
-### Basics
 
-- [Style guide](https://google.github.io/styleguide/pyguide.html)
-- "Hello, World!"
-- Variables and data types: integer, float, boolean, string
-- Strings: replace, join, substring, find, split, multiline
-- Keyboard input
+## Table of Contents
 
-### Control structures
+This is the table of contents of the [src](src) folder.
 
-- [Operators](https://www.programiz.com/python-programming/operators)
-- if, elif, else
-- for, while
+### Python
 
-### Data and operations
+- [Basics of Python 3](src/StartingUpWithPython.ipynb)
 
-- Function
-- Function with multiple return
-- List: sort, slice
-- try, except, finally
-- read and write file
+### Matplotlib
 
-## Learn more
-
-[Learn Python Programming - Python Tutorial](https://pythonbasics.org/)
-
-[Matplotlib: Python plotting - documentation](https://matplotlib.org/)
-
-[pandas: Python Data Analysis Library](https://pandas.pydata.org/)
+- [Line plot examples](src/MatplotlibLinePlotExamples.ipynb)
+- [Bar plot examples](src/MatplotlibBarPlotExamples.ipynb)
+- [Pie plot examples](src/MatplotlibPiePlotExamples.ipynb)
+- [Subplot examples](src/MatplotlibSubplotExample.ipynb)
+- [Real life plot examples](src/RealLifePlotExamples.ipynb)
