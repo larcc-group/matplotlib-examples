@@ -1,4 +1,4 @@
-# Matplotlib Training
+# Matplotlib Examples
 
 This repository has some tips on Python and mainly on Matplotlib.
 
