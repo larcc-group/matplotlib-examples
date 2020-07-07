@@ -3,15 +3,15 @@
 This repository has some tips on Python and mainly on Matplotlib.
 
 
-## Table of Contents
+# Table of Contents
 
 This is the table of contents of the [src](src) folder.
 
-### Python
+## Python
 
 - [Basics of Python 3](src/StartingUpWithPython.ipynb)
 
-### Matplotlib
+## Matplotlib
 
 - [Line plot examples](src/MatplotlibLinePlotExamples.ipynb)
 - [Bar plot examples](src/MatplotlibBarPlotExamples.ipynb)
