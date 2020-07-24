@@ -16,5 +16,6 @@ This is the table of contents of the [src](src) folder.
 - [Line plot examples](src/MatplotlibLinePlotExamples.ipynb)
 - [Bar plot examples](src/MatplotlibBarPlotExamples.ipynb)
 - [Pie plot examples](src/MatplotlibPiePlotExamples.ipynb)
-- [Subplot examples](src/MatplotlibSubplotExample.ipynb)
+- [Subplot example](src/MatplotlibSubplotExample.ipynb)
 - [Real life plot examples](src/RealLifePlotExamples.ipynb)
+- [3D example](src/Matplotlib3DExample.ipynb)
