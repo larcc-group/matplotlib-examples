@@ -18,4 +18,4 @@ This is the table of contents of the [src](src) folder.
 - [Pie plot examples](src/MatplotlibPiePlotExamples.ipynb)
 - [Subplot example](src/MatplotlibSubplotExample.ipynb)
 - [Real life plot examples](src/RealLifePlotExamples.ipynb)
-- [3D example](src/Matplotlib3DExample.ipynb)
+- [3D example](src/Matplotlib3DExample.ipynb) (from [@dineiar](https://github.com/dineiar))
