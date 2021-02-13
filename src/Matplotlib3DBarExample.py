@@ -31,9 +31,6 @@ x,y = _x.ravel(), _y.ravel()
 z = [item for sublist in temperatures for item in sublist]
 bottom = np.zeros_like(z)
 
-dx = np.ones_like(z)
-dy = np.ones_like(z)
-
 # Define one for each month, thus we repeat the same color for len(countries)
 color3d = ([light_colors[0]]*len(countries))
 color3d += ([light_colors[1]]*len(countries))
